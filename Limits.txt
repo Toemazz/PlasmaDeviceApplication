@@ -1,0 +1,1 @@
+MaxDistanceBetweenCenterPoints: 25.0
