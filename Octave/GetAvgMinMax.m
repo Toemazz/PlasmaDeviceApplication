@@ -14,18 +14,17 @@ for i = 1:length(files)
   file = fopen(filename);
   % Read file
   data = fread(file, "ushort");
-  
+  % Total min values
   min_val = int32(swapbytes(uint16(data(1))));
   min_tot += min_val;
-  
+  % Total max values
   max_val = int32(swapbytes(uint16(data(2))));
   max_tot += max_val;
-  disp(max_val);
-  
   % Close file
   fclose(file);
 end
 
+% Calculate both min and max averages
 min_avg = min_tot / length(files);
 max_avg = max_tot / length(files);
 disp(min_avg);
