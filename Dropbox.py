@@ -2,6 +2,7 @@
 # College: National University of Ireland Galway
 # Date: 26/01/2017
 import os
+import sys
 import logging
 import dropbox
 from dropbox.files import FileMetadata
@@ -14,8 +15,12 @@ def get_dropbox_token():
     """
     :return: DropBox token
     """
-    with open("token.txt") as f:
-        token = f.read()
+    try:
+        with open("token.txt") as f:
+            token = f.read()
+    except FileNotFoundError:
+        print("Unable to find token file")
+        sys.exit(0)
 
     return str(token)
 
@@ -33,11 +38,12 @@ def get_files_from_local_dir(file_dir):
             if root == file_dir:
                 for filename in files:
                     files_to_upload.append(filename)
+        print("Files got from local directory")
         return files_to_upload
     # Return empty list if the file directory does not exist
     else:
-        logging.info("DropBox.py:", file_dir, "does not exist")
-        return []
+        print("No files found")
+        sys.exit(0)
 
 
 # Method: Used to get files from DropBox directory to download
@@ -55,14 +61,15 @@ def get_files_from_dropbox_dir(dbox_dir):
 
     try:
         response = dbox.files_list_folder(path)
-    except dropbox.exceptions.ApiError as err:
-        logging.info("DropBox.py: Download Error: Unable to get files for download. " + str(err))
-        return []
+    except dropbox.exceptions.ApiError:
+        print("Unable to get files for download")
+        sys.exit(0)
     else:
         # Collect file names of files to be downloaded
         down_files = []
         for entry in response.entries:
             down_files.append(entry.name)
+        print("Files downloaded from DropBox")
         return down_files
 
 
@@ -72,8 +79,12 @@ def get_file_data(filename):
     :param filename: File Name
     :return: File Data
     """
-    with open(filename, "rb") as f:
-        file_data = f.read()
+    try:
+        with open(filename, "rb") as f:
+            file_data = f.read()
+    except FileExistsError:
+        print("Unable to get file data")
+        file_data = b""
 
     return file_data
 
@@ -91,19 +102,23 @@ def upload_files(local_dir, dbox_dir):
     # Get files from local directory to upload
     up_files = get_files_from_local_dir(local_dir)
 
-    for up_file in up_files:
-        path = os.path.join(dbox_dir, up_file)
-        if "//" in path:
-            path = path.replace("//", "/")
+    if len(up_files) == 0:
+        print("No files in the directory to be uploaded to DropBox")
+    else:
+        for up_file in up_files:
+            path = os.path.join(dbox_dir, up_file)
+            if "//" in path:
+                path = path.replace("//", "/")
 
-        up_file_data = get_file_data(up_file)
+            up_file_data = get_file_data(up_file)
 
-        try:
-            mode = dropbox.files.WriteMode.add
-            dbox.files_upload(up_file_data, path=path, mode=mode, mute=True)
-            logging.info("DropBox.py: " + up_file + " uploaded to " + path)
-        except dropbox.exceptions.ApiError:
-            logging.info("DropBox.py: " + up_file + " unable to be uploaded")
+            try:
+                mode = dropbox.files.WriteMode.add
+                dbox.files_upload(up_file_data, path=path, mode=mode, mute=True)
+                logging.info("DropBox.py: " + up_file + " uploaded to " + path)
+            except dropbox.exceptions.ApiError:
+                logging.info("DropBox.py: " + up_file + " unable to be uploaded")
+        print("Files uploaded to DropBox")
 
 
 # Method: Used to download files from DropBox to local directory
@@ -119,20 +134,24 @@ def download_files(local_dir, dbox_dir):
     # Get files to be downloaded
     down_files = get_files_from_dropbox_dir(dbox_dir)
 
-    # Add files to local directory
-    for down_file in down_files:
-        dbox_path = os.path.join(dbox_dir, down_file)
-        if "//" in dbox_path:
-            dbox_path = dbox_path.replace("//", "/")
+    if len(down_files):
+        print("No files in DropBox directory")
+    else:
+        # Add files to local directory
+        for down_file in down_files:
+            dbox_path = os.path.join(dbox_dir, down_file)
+            if "//" in dbox_path:
+                dbox_path = dbox_path.replace("//", "/")
 
-        try:
-            metadata, response = dbox.files_download(dbox_path)
-            logging.info("DropBox.py: " + down_file + " downloaded to " + dbox_path)
+            try:
+                metadata, response = dbox.files_download(dbox_path)
+                logging.info("DropBox.py: " + down_file + " downloaded to " + dbox_path)
 
-            with open(os.path.join(local_dir, down_file), "wb") as f:
-                f.write(response.content)
-        except dropbox.exceptions.HttpError:
-            logging.error("DropBox.py: " + down_file + " unable to be downloaded")
+                with open(os.path.join(local_dir, down_file), "wb") as f:
+                    f.write(response.content)
+            except dropbox.exceptions.HttpError:
+                logging.error("DropBox.py: " + down_file + " unable to be downloaded")
+        print("Files downloaded from DropBox")
 
 
 # Method: Used to delete files from DropBox directory
@@ -147,16 +166,20 @@ def delete_files_from_dropbox_dir(dbox_dir):
     # Get files to delete from DropBox
     del_files = get_files_from_dropbox_dir(dbox_dir)
 
-    # Delete each file from DropBox
-    for del_file in del_files:
-        del_path = os.path.join(dbox_dir, del_file)
-        if "//" in del_path:
-            del_path = del_path.replace("//", "/")
+    if len(del_files) == 0:
+        print("No files in DropBox directory to be deleted")
+    else:
+        # Delete each file from DropBox
+        for del_file in del_files:
+            del_path = os.path.join(dbox_dir, del_file)
+            if "//" in del_path:
+                del_path = del_path.replace("//", "/")
 
-        try:
-            dbox.files_delete(del_path)
-        except dropbox.exceptions.ApiError:
-            logging.info("DropBox.py: " + del_file + " unable to be deleted")
+            try:
+                dbox.files_delete(del_path)
+            except dropbox.exceptions.ApiError:
+                logging.info("DropBox.py: " + del_file + " unable to be deleted")
+        print("Files deleted from DropBox directory")
 
 
 # Method: Used to delete files from local directory
@@ -164,10 +187,14 @@ def delete_files_from_local_dir(local_dir):
     """
     :param local_dir: Local directory
     """
-    # Delete files from local directory
-    for del_file in os.listdir(local_dir):
-        del_path = os.path.join(local_dir, del_file)
-        try:
-            os.remove(del_path)
-        except OSError:
-            logging.info("DropBox.py: " + del_file + " unable to be deleted")
+    if len(os.listdir(local_dir)) == 0:
+        print("No files to be deleted from the local directory")
+    else:
+        # Delete files from local directory
+        for del_file in os.listdir(local_dir):
+            del_path = os.path.join(local_dir, del_file)
+            try:
+                os.remove(del_path)
+            except OSError:
+                logging.info("DropBox.py: " + del_file + " unable to be deleted")
+        print("Files deleted from local directory")
