@@ -62,8 +62,7 @@ def get_files_from_dropbox_dir(dbox_dir):
         path = path.replace("\\", "/")
 
     try:
-        response = dbox.files_list_folder(path)
-        print(response)
+        response = dbox.files_list_folder(path, recursive=True)
     except dropbox.exceptions.ApiError:
         print("Unable to get files for download")
         sys.exit(0)
@@ -71,7 +70,7 @@ def get_files_from_dropbox_dir(dbox_dir):
         # Collect file names of files to be downloaded
         down_files = []
         for entry in response.entries:
-            down_files.append(entry.name)
+            down_files.append(entry.path_display)
         print("Files downloaded from DropBox")
         return down_files
 
@@ -145,19 +144,23 @@ def download_files(local_dir, dbox_dir):
     else:
         # Add files to local directory
         for down_file in down_files:
-            dbox_path = os.path.join(dbox_dir, down_file)
-            if "//" in dbox_path:
-                dbox_path = dbox_path.replace("//", "/")
-
             try:
-                metadata, response = dbox.files_download(dbox_path)
-                logging.info("DropBox.py: " + down_file + " downloaded to " + dbox_path)
+                metadata, response = dbox.files_download(down_file)
+                logging.info("DropBox.py: " + down_file + " downloaded to " + local_dir)
+                filename = down_file.split("/")[-1]
+                down_path = os.path.join(local_dir, down_file.split("/")[-2])
 
-                with open(os.path.join(local_dir, down_file), "wb") as f:
+                if not os.path.exists(down_path):
+                    os.mkdir(down_path)
+
+                down_path_with_file = os.path.join(down_path, filename)
+                with open(down_path_with_file, "wb") as f:
                     f.write(response.content)
-                print("DOWNLOADED\t", down_file)
+                print("DOWNLOADED\t", down_path_with_file)
             except dropbox.exceptions.HttpError:
-                logging.error("DropBox.py: " + down_file + " unable to be downloaded")
+                logging.error("DropBox.py: " + down_path_with_file + " unable to be downloaded")
+            except dropbox.exceptions.ApiError:
+                pass
         print("Files downloaded from DropBox")
 
 

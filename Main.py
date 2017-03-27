@@ -73,4 +73,4 @@ def main(base_local_dir, dbox_dir):
 
 # run_application("C://PlasmaDeviceApplication/Raw/2017-03-14 14-26-31/",
 #                 "C://PlasmaDeviceApplication/Results/2017-03-14 14-26-31/Output.jpg")
-main("C://PlasmaDeviceApplication/Raw/", "/PlasmaDeviceApplication/Raw/")
+main("C://PlasmaDeviceApplication/Raw/", "/PlasmaDeviceApplication")

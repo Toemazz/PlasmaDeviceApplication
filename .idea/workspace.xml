@@ -2,728 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc0c03d1-1bb7-47aa-83ba-2f5839ef0ece" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw1.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw10.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw11.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw12.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw13.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw14.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw15.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw16.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw17.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw18.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw19.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw2.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw20.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw21.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw22.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw23.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw24.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw25.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw26.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw27.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw28.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw29.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw3.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw30.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw31.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw32.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw33.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw34.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw35.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw36.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw37.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw38.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw39.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw4.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw40.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw41.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw42.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw43.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw44.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw45.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw5.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw6.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw7.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw8.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/raw9.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb42.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw46.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw47.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw48.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw49.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw50.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw51.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw52.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw53.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw54.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw55.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw56.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw57.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw58.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw59.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw60.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw61.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw62.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw63.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw64.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw65.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw66.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw67.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw68.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw69.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw70.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw71.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw72.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw73.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw74.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw75.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw76.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw77.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw78.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw79.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw80.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw81.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw82.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw83.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw84.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw85.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw86.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw87.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw88.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw89.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/raw90.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb46.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb47.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb48.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb50.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb52.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb53.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb54.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb57.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb58.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb59.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb60.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb61.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb62.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb63.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb64.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb65.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb67.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb69.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb70.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb71.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb72.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb73.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb74.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb75.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb76.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb77.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb78.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb79.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb80.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb81.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb82.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb83.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb84.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb85.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb86.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb87.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb88.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb89.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-26-31/rgb90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw100.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw101.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw102.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw103.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw104.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw105.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw106.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw107.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw108.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw109.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw110.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw111.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw112.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw113.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw114.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw115.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw116.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw117.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw118.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw119.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw120.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw121.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw122.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw123.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw124.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw125.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw126.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw127.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw128.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw129.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw130.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw131.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw132.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw133.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw134.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw91.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw92.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw93.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw94.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw95.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw96.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw97.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw98.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/raw99.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb101.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb102.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb103.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb104.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb105.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb106.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb107.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb108.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb109.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb110.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb111.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb112.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb113.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb114.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb115.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb116.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb117.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb118.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb119.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb120.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb121.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb122.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb123.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb124.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb125.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb126.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb127.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb129.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb130.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb131.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb132.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb133.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb134.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb91.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb92.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb93.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb94.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb95.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb96.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb97.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb98.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-29-22/rgb99.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw135.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw136.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw137.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw138.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw139.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw140.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw141.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw142.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw143.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw144.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw145.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw146.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw147.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw148.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw149.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw150.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw151.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw152.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw153.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw154.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw155.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw156.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw157.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw158.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw159.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw160.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw161.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw162.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw163.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw164.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw165.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw166.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw167.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw168.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw169.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw170.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw171.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw172.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw173.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw174.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw175.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw176.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw177.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw178.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/raw179.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb135.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb136.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb137.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb138.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb139.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb140.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb141.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb142.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb143.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb144.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb146.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb147.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb148.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb149.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb151.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb152.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb153.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb154.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb155.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb156.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb157.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb158.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb159.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb160.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb161.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb162.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb163.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb164.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb165.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb166.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb167.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb168.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb169.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb170.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb171.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb172.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb173.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb174.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb175.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb176.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb177.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb178.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-33-33/rgb179.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw180.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw181.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw182.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw183.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw184.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw185.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw186.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw187.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw188.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw189.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw190.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw191.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw192.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw193.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw194.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw195.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw196.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw197.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw198.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw199.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw200.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw201.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw202.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw203.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw204.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw205.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw206.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw207.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw208.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw209.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw210.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw211.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw212.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw213.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw214.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw215.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw216.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw217.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw218.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw219.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw220.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw221.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw222.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw223.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/raw224.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb180.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb181.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb182.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb183.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb184.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb185.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb186.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb187.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb188.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb189.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb190.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb191.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb192.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb193.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb194.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb195.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb196.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb197.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb198.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb199.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb201.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb202.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb203.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb204.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb205.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb206.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb207.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb208.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb209.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb210.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb211.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb212.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb213.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb214.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb215.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb216.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb217.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb218.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb219.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb220.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb221.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb222.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb223.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-38-09/rgb224.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw225.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw226.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw227.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw228.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw229.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw230.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw231.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw232.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw233.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw234.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw235.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw236.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw237.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw238.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw239.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw240.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw241.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw242.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw243.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw244.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw245.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw246.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw247.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw248.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw249.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw250.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw251.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw252.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw253.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw254.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw255.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw256.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw257.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw258.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw259.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw260.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw261.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw262.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw263.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw264.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw265.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw266.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw267.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/raw268.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb225.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb226.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb227.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb228.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb229.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb230.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb231.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb232.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb233.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb234.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb235.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb236.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb237.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb238.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb239.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb240.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb241.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb242.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb243.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb244.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb245.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb246.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb247.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb248.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb249.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb250.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb251.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb252.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb253.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb254.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb255.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb256.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb257.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb258.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb259.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb260.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb261.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb262.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb263.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb264.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb265.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb266.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb267.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-45-44/rgb268.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw269.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw270.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw271.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw272.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw273.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw274.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw275.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw276.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw277.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw278.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw279.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw280.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw281.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw282.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw283.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw284.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw285.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw286.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw287.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw288.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw289.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw290.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw291.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw292.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw293.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw294.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw295.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw296.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw297.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw298.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw299.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw300.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw301.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw302.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw303.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw304.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw305.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw306.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw307.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw308.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw309.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw310.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw311.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/raw312.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb269.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb270.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb271.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb272.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb273.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb274.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb275.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb276.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb277.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb278.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb279.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb280.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb281.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb282.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb283.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb284.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb285.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb286.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb287.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb288.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb289.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb290.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb291.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb292.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb293.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb294.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb295.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb296.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb297.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb298.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb299.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb301.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb302.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb303.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb304.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb305.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb306.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb307.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb308.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb309.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb310.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb311.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-52-19/rgb312.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw313.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw314.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw315.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw316.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw317.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw318.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw319.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw320.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw321.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw322.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw323.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw324.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw325.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw326.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw327.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw328.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw329.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw330.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw331.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw332.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw333.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw334.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw335.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw336.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw337.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw338.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw339.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw340.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw341.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw342.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw343.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw344.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw345.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw346.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw347.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw348.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw349.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw350.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw351.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw352.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw353.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw354.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw355.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw356.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/raw357.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb313.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb314.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb315.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb316.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb317.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb318.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb319.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb320.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb321.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb322.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb323.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb324.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb325.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb326.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb327.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb328.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb329.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb330.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb331.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb332.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb333.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb334.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb335.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb336.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb337.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb338.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb339.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb340.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb341.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb342.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb343.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb344.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb345.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb346.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb347.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb348.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb349.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb350.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb351.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb352.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb353.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb354.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb355.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb356.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-59-39/rgb357.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dropbox.py" afterPath="$PROJECT_DIR$/Dropbox.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -735,9 +15,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$ImageManipulation.coverage" NAME="ImageManipulation Coverage Results" MODIFIED="1490617437199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$Main.coverage" NAME="Main Coverage Results" MODIFIED="1490622161847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$Main.coverage" NAME="Main Coverage Results" MODIFIED="1490625485471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$ImageUtility.coverage" NAME="ImageUtility Coverage Results" MODIFIED="1490548584871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/New" />
-    <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$DropBox.coverage" NAME="DropBox Coverage Results" MODIFIED="1490620444612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$DropBox.coverage" NAME="DropBox Coverage Results" MODIFIED="1490624713080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$ImageUtility__1_.coverage" NAME="ImageUtility (1) Coverage Results" MODIFIED="1490551580378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -749,15 +29,16 @@
       <file leaf-file-name="DropBox.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DropBox.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="65" column="22" lean-forward="false" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+            <state relative-caret-position="251">
+              <caret line="158" column="58" lean-forward="false" selection-start-line="158" selection-start-column="58" selection-end-line="158" selection-end-column="58" />
               <folding>
                 <element signature="e#94#103#0" expanded="true" />
                 <element signature="e#356#585#0" expanded="false" />
+                <element signature="e#1458#2222#0" expanded="false" />
                 <element signature="e#2301#2563#0" expanded="false" />
                 <element signature="e#2674#3818#0" expanded="false" />
-                <element signature="e#5156#5979#0" expanded="false" />
-                <element signature="e#6079#6606#0" expanded="false" />
+                <element signature="e#5373#6196#0" expanded="false" />
+                <element signature="e#6296#6823#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -802,12 +83,10 @@
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="70" column="44" lean-forward="false" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+            <state relative-caret-position="175">
+              <caret line="67" column="30" lean-forward="false" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
               <folding>
                 <element signature="e#94#113#0" expanded="true" />
-                <marker date="1490622366130" expanded="true" signature="2032:2465" ph="..." />
-                <marker date="1490622366130" expanded="true" signature="2231:2465" ph="..." />
               </folding>
             </state>
           </provider>
@@ -842,8 +121,8 @@
         <option value="$PROJECT_DIR$/Tests.py" />
         <option value="$PROJECT_DIR$/ImageManipulation.py" />
         <option value="$PROJECT_DIR$/OpenCV.py" />
-        <option value="$PROJECT_DIR$/DropBox.py" />
         <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/DropBox.py" />
       </list>
     </option>
   </component>
@@ -1253,15 +532,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6688418" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35562807" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28366113" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28366113" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626426" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1314,10 +592,11 @@
           <folding>
             <element signature="e#94#103#0" expanded="true" />
             <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#1458#2222#0" expanded="false" />
             <element signature="e#2301#2563#0" expanded="false" />
             <element signature="e#2674#3818#0" expanded="false" />
-            <element signature="e#5156#5979#0" expanded="false" />
-            <element signature="e#6079#6606#0" expanded="false" />
+            <element signature="e#5373#6196#0" expanded="false" />
+            <element signature="e#6296#6823#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1343,8 +622,6 @@
           <caret line="57" column="44" lean-forward="false" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
           <folding>
             <element signature="e#94#113#0" expanded="true" />
-            <marker date="1490622366130" expanded="true" signature="2032:2465" ph="..." />
-            <marker date="1490622366130" expanded="true" signature="2231:2465" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1373,10 +650,11 @@
           <folding>
             <element signature="e#94#103#0" expanded="true" />
             <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#1458#2222#0" expanded="false" />
             <element signature="e#2301#2563#0" expanded="false" />
             <element signature="e#2674#3818#0" expanded="false" />
-            <element signature="e#5156#5979#0" expanded="false" />
-            <element signature="e#6079#6606#0" expanded="false" />
+            <element signature="e#5373#6196#0" expanded="false" />
+            <element signature="e#6296#6823#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1387,8 +665,6 @@
           <caret line="57" column="44" lean-forward="false" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
           <folding>
             <element signature="e#94#113#0" expanded="true" />
-            <marker date="1490622366130" expanded="true" signature="2032:2465" ph="..." />
-            <marker date="1490622366130" expanded="true" signature="2231:2465" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1400,10 +676,11 @@
           <folding>
             <element signature="e#94#103#0" expanded="true" />
             <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#1458#2222#0" expanded="false" />
             <element signature="e#2301#2563#0" expanded="false" />
             <element signature="e#2674#3818#0" expanded="false" />
-            <element signature="e#5156#5979#0" expanded="false" />
-            <element signature="e#6079#6606#0" expanded="false" />
+            <element signature="e#5373#6196#0" expanded="false" />
+            <element signature="e#6296#6823#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1414,8 +691,6 @@
           <caret line="57" column="44" lean-forward="false" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
           <folding>
             <element signature="e#94#113#0" expanded="true" />
-            <marker date="1490622366130" expanded="true" signature="2032:2465" ph="..." />
-            <marker date="1490622366130" expanded="true" signature="2231:2465" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1427,10 +702,11 @@
           <folding>
             <element signature="e#94#103#0" expanded="true" />
             <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#1458#2222#0" expanded="false" />
             <element signature="e#2301#2563#0" expanded="false" />
             <element signature="e#2674#3818#0" expanded="false" />
-            <element signature="e#5156#5979#0" expanded="false" />
-            <element signature="e#6079#6606#0" expanded="false" />
+            <element signature="e#5373#6196#0" expanded="false" />
+            <element signature="e#6296#6823#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1441,8 +717,6 @@
           <caret line="57" column="44" lean-forward="false" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
           <folding>
             <element signature="e#94#113#0" expanded="true" />
-            <marker date="1490622366130" expanded="true" signature="2032:2465" ph="..." />
-            <marker date="1490622366130" expanded="true" signature="2231:2465" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1454,10 +728,11 @@
           <folding>
             <element signature="e#94#103#0" expanded="true" />
             <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#1458#2222#0" expanded="false" />
             <element signature="e#2301#2563#0" expanded="false" />
             <element signature="e#2674#3818#0" expanded="false" />
-            <element signature="e#5156#5979#0" expanded="false" />
-            <element signature="e#6079#6606#0" expanded="false" />
+            <element signature="e#5373#6196#0" expanded="false" />
+            <element signature="e#6296#6823#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1490,10 +765,11 @@
           <folding>
             <element signature="e#94#103#0" expanded="true" />
             <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#1458#2222#0" expanded="false" />
             <element signature="e#2301#2563#0" expanded="false" />
             <element signature="e#2674#3818#0" expanded="false" />
-            <element signature="e#5156#5979#0" expanded="false" />
-            <element signature="e#6079#6606#0" expanded="false" />
+            <element signature="e#5373#6196#0" expanded="false" />
+            <element signature="e#6296#6823#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1526,10 +802,11 @@
           <folding>
             <element signature="e#94#103#0" expanded="true" />
             <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#1458#2222#0" expanded="false" />
             <element signature="e#2301#2563#0" expanded="false" />
             <element signature="e#2674#3818#0" expanded="false" />
-            <element signature="e#5156#5979#0" expanded="false" />
-            <element signature="e#6079#6606#0" expanded="false" />
+            <element signature="e#5373#6196#0" expanded="false" />
+            <element signature="e#6296#6823#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1541,10 +818,11 @@
           <folding>
             <element signature="e#94#103#0" expanded="true" />
             <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#1458#2222#0" expanded="false" />
             <element signature="e#2301#2563#0" expanded="false" />
             <element signature="e#2674#3818#0" expanded="false" />
-            <element signature="e#5156#5979#0" expanded="false" />
-            <element signature="e#6079#6606#0" expanded="false" />
+            <element signature="e#5373#6196#0" expanded="false" />
+            <element signature="e#6296#6823#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1556,10 +834,11 @@
           <folding>
             <element signature="e#94#103#0" expanded="true" />
             <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#1458#2222#0" expanded="false" />
             <element signature="e#2301#2563#0" expanded="false" />
             <element signature="e#2674#3818#0" expanded="false" />
-            <element signature="e#5156#5979#0" expanded="false" />
-            <element signature="e#6079#6606#0" expanded="false" />
+            <element signature="e#5373#6196#0" expanded="false" />
+            <element signature="e#6296#6823#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1624,6 +903,21 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ImageManipulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="152" column="0" lean-forward="false" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding>
+            <element signature="e#445#1040#0" expanded="false" />
+            <element signature="e#1158#1995#0" expanded="false" />
+            <element signature="e#2091#2732#0" expanded="false" />
+            <element signature="e#2832#3656#0" expanded="false" />
+            <element signature="e#3794#4643#0" expanded="false" />
+            <element signature="e#4730#4934#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/OpenCV.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
@@ -1641,44 +935,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImageManipulation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="152" column="0" lean-forward="false" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
-          <folding>
-            <element signature="e#445#1040#0" expanded="false" />
-            <element signature="e#1158#1995#0" expanded="false" />
-            <element signature="e#2091#2732#0" expanded="false" />
-            <element signature="e#2832#3656#0" expanded="false" />
-            <element signature="e#3794#4643#0" expanded="false" />
-            <element signature="e#4730#4934#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DropBox.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="65" column="22" lean-forward="false" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+        <state relative-caret-position="251">
+          <caret line="158" column="58" lean-forward="false" selection-start-line="158" selection-start-column="58" selection-end-line="158" selection-end-column="58" />
           <folding>
             <element signature="e#94#103#0" expanded="true" />
             <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#1458#2222#0" expanded="false" />
             <element signature="e#2301#2563#0" expanded="false" />
             <element signature="e#2674#3818#0" expanded="false" />
-            <element signature="e#5156#5979#0" expanded="false" />
-            <element signature="e#6079#6606#0" expanded="false" />
+            <element signature="e#5373#6196#0" expanded="false" />
+            <element signature="e#6296#6823#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="70" column="44" lean-forward="false" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+        <state relative-caret-position="175">
+          <caret line="67" column="30" lean-forward="false" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
           <folding>
             <element signature="e#94#113#0" expanded="true" />
-            <marker date="1490622366130" expanded="true" signature="2032:2465" ph="..." />
-            <marker date="1490622366130" expanded="true" signature="2231:2465" ph="..." />
           </folding>
         </state>
       </provider>
