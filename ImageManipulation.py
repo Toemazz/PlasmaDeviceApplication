@@ -112,7 +112,7 @@ def resize_image(input_file_name, output_file_name, ratio=8):
     logging.info("Re-Size Image: Image Size After: (" + str(new_width) + ", " + str(new_height) + ")")
     # Save image
     img.save(output_file_name)
-    print(input_file_name, "re-sized")
+    print("Image re-sized")
     logging.info("Re-Size Image: Finishing.....")
 
 

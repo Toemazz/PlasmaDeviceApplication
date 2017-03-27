@@ -218,7 +218,7 @@ def circle_detection(file_name, dp, min_dist, param1, param2, min_radius, max_ra
 
     if circles is not None:
         circles = np.uint16(np.around(circles))
-        if len(circles[0, :]) > 1:
+        if len(circles[0, :]) > 0:
             # Randomly pick a center point if there is more than one
             circle = circles[0, :][0]
             center = (int(circle[0]), int(circle[1]))

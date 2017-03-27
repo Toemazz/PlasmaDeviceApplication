@@ -120,9 +120,9 @@ def upload_files(local_dir, dbox_dir):
                 mode = dropbox.files.WriteMode.add
                 dbox.files_upload(up_file_data, path=path, mode=mode, mute=True)
                 print("UPLOADED\t", up_file)
-                logging.info("DropBox.py: " + up_file + " uploaded to " + path)
+                logging.info(up_file + " uploaded to " + path)
             except dropbox.exceptions.ApiError:
-                logging.info("DropBox.py: " + up_file + " unable to be uploaded")
+                logging.info(up_file + " unable to be uploaded")
         print("Files uploaded to DropBox")
 
 
@@ -146,7 +146,7 @@ def download_files(local_dir, dbox_dir):
         for down_file in down_files:
             try:
                 metadata, response = dbox.files_download(down_file)
-                logging.info("DropBox.py: " + down_file + " downloaded to " + local_dir)
+                logging.info(down_file + " downloaded to " + local_dir)
                 filename = down_file.split("/")[-1]
                 down_path = os.path.join(local_dir, down_file.split("/")[-2])
 
@@ -158,7 +158,7 @@ def download_files(local_dir, dbox_dir):
                     f.write(response.content)
                 print("DOWNLOADED\t", down_path_with_file)
             except dropbox.exceptions.HttpError:
-                logging.error("DropBox.py: " + down_path_with_file + " unable to be downloaded")
+                logging.error(down_file + " unable to be downloaded")
             except dropbox.exceptions.ApiError:
                 pass
         print("Files downloaded from DropBox")
@@ -188,7 +188,7 @@ def delete_files_from_dropbox_dir(dbox_dir):
             try:
                 dbox.files_delete(del_path)
             except dropbox.exceptions.ApiError:
-                logging.info("DropBox.py: " + del_file + " unable to be deleted")
+                logging.info(del_file + " unable to be deleted")
         print("Files deleted from DropBox directory")
 
 
@@ -206,5 +206,5 @@ def delete_files_from_local_dir(local_dir):
             try:
                 os.remove(del_path)
             except OSError:
-                logging.info("DropBox.py: " + del_file + " unable to be deleted")
+                logging.info(del_file + " unable to be deleted")
         print("Files deleted from local directory")
