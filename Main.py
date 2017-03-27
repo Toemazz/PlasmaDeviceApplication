@@ -3,6 +3,7 @@
 # Date: 16/03/2017
 from Tests import *
 from OpenCV import *
+from DropBox import *
 from ImageManipulation import *
 
 
@@ -54,5 +55,22 @@ def run_application(file_dir, file_name):
     cv2.imwrite(file_name, img)
 
 
-run_application("C://PlasmaDeviceApplication/Raw/2017-03-14 14-26-31/",
-                "C://PlasmaDeviceApplication/Results/2017-03-14 14-26-31/Output.jpg")
+def main(base_local_dir, dbox_dir):
+
+    if not os.path.exists(base_local_dir):
+        os.mkdir(base_local_dir)
+
+    # Download files
+    download_files(base_local_dir, dbox_dir)
+
+    for root, dirs, files in os.walk(base_local_dir):
+        if files:
+            for file in files:
+                print(os.path.join(root, file))
+        else:
+            print("No files to be downloaded")
+
+
+# run_application("C://PlasmaDeviceApplication/Raw/2017-03-14 14-26-31/",
+#                 "C://PlasmaDeviceApplication/Results/2017-03-14 14-26-31/Output.jpg")
+main("C://PlasmaDeviceApplication/Raw/", "/PlasmaDeviceApplication/Raw/")
