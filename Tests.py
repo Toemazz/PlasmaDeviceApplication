@@ -1,3 +1,6 @@
+# Engineer: Thomas Reaney
+# College: National University of Ireland Galway
+# Date: 09/03/2016
 import math
 
 
@@ -10,13 +13,13 @@ def get_limit(max_dist_between_center_points=25.0):
     """
     file = open("limits.txt", "r")
 
-    if file is not None:
+    if file:
         for line in file:
             line = line.split(" ")
             max_dist_between_center_points = float(line[1])
-        return max_dist_between_center_points
     else:
-        raise FileNotFoundError
+        print("File not found. Using default limit")
+    return max_dist_between_center_points
 
 
 # Method: Used to check if the test has passed
@@ -27,8 +30,10 @@ def check_pass_fail_(point_0, point_1):
     :return: True if passed, False if failed
     """
     limit = get_limit()
+    # Get the distance between the two points
     dist = calc_distance_between_two_points(point_0, point_1)
 
+    # Check if the current run has passed the test
     if dist <= limit:
         return True
     else:

@@ -2,7 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc0c03d1-1bb7-47aa-83ba-2f5839ef0ece" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImageProcessing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ImageUtility.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/output.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Test.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb1.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb10.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb11.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb12.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb13.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb14.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb15.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb16.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb17.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb18.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb19.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb2.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb20.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb21.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb22.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb23.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb24.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb25.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb26.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb27.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb28.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb29.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb3.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb30.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb31.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb32.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb33.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb34.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb35.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb35.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb36.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb36.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb37.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb37.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb38.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb38.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb39.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb39.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb4.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb40.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb40.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb41.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb41.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb42.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb42.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb43.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb43.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb44.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb44.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb45.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb45.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb5.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb6.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb7.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb8.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb9.jpg" afterPath="$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb9.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dropbox.py" afterPath="$PROJECT_DIR$/Dropbox.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tests.py" afterPath="$PROJECT_DIR$/Tests.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,17 +63,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$ImageManipulation.coverage" NAME="ImageManipulation Coverage Results" MODIFIED="1490617437199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$Main.coverage" NAME="Main Coverage Results" MODIFIED="1490617552206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$ImageUtility.coverage" NAME="ImageUtility Coverage Results" MODIFIED="1490548584871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/New" />
+    <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$DropBox.coverage" NAME="DropBox Coverage Results" MODIFIED="1490615801838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$ImageUtility__1_.coverage" NAME="ImageUtility (1) Coverage Results" MODIFIED="1490551580378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DropBox.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DropBox.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DropBox.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="185" column="43" lean-forward="false" selection-start-line="185" selection-start-column="43" selection-end-line="185" selection-end-column="43" />
+            <state relative-caret-position="697">
+              <caret line="199" column="51" lean-forward="false" selection-start-line="199" selection-start-column="51" selection-end-line="199" selection-end-column="51" />
               <folding>
                 <element signature="e#94#103#0" expanded="true" />
                 <element signature="e#356#585#0" expanded="false" />
@@ -29,15 +88,74 @@
                 <element signature="e#1403#2083#0" expanded="false" />
                 <element signature="e#2162#2424#0" expanded="false" />
                 <element signature="e#2535#3558#0" expanded="false" />
-                <element signature="e#3668#4745#0" expanded="false" />
-                <element signature="e#4848#5671#0" expanded="false" />
-                <element signature="e#5771#6298#0" expanded="false" />
+                <element signature="e#3668#4744#0" expanded="false" />
+                <element signature="e#4847#5670#0" expanded="false" />
+                <element signature="e#5770#6297#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageManipulation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImageManipulation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="152" column="0" lean-forward="true" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+              <folding>
+                <element signature="e#445#1040#0" expanded="false" />
+                <element signature="e#1158#1995#0" expanded="false" />
+                <element signature="e#2091#2732#0" expanded="false" />
+                <element signature="e#2832#3656#0" expanded="false" />
+                <element signature="e#3794#4643#0" expanded="false" />
+                <element signature="e#4730#4934#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpenCV.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="214" column="15" lean-forward="true" selection-start-line="214" selection-start-column="15" selection-end-line="214" selection-end-column="15" />
+              <folding>
+                <element signature="e#306#751#0" expanded="false" />
+                <element signature="e#850#1507#0" expanded="false" />
+                <element signature="e#1619#2955#0" expanded="false" />
+                <element signature="e#3065#4339#0" expanded="false" />
+                <element signature="e#4472#5877#0" expanded="false" />
+                <element signature="e#5984#6772#0" expanded="false" />
+                <element signature="e#8813#9044#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <folding>
+                <element signature="e#94#113#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dir</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,7 +164,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Dropbox.py" />
+        <option value="$PROJECT_DIR$/New/ImageUtility.py" />
+        <option value="$PROJECT_DIR$/ImageUtility.py" />
+        <option value="$PROJECT_DIR$/New/ImageProcessing.py" />
+        <option value="$PROJECT_DIR$/New/OpenCV.py" />
+        <option value="$PROJECT_DIR$/New/Tests.py" />
+        <option value="$PROJECT_DIR$/Tests.py" />
         <option value="$PROJECT_DIR$/DropBox.py" />
+        <option value="$PROJECT_DIR$/ImageManipulation.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/OpenCV.py" />
       </list>
     </option>
   </component>
@@ -77,8 +204,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -91,8 +216,56 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlasmaDeviceApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlasmaDeviceApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Results" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlasmaDeviceApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlasmaDeviceApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Results" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017-03-14 14-26-31" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlasmaDeviceApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PlasmaDeviceApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Raw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -100,9 +273,348 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PlasmaDeviceApplication" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PlasmaDeviceApplication" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration default="false" name="ImageUtility" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/New" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/New/ImageUtility.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ImageUtility (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImageUtility.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DropBox" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DropBox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ImageManipulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImageManipulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="PlasmaDeviceApplication" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.ImageUtility" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ImageUtility (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DropBox" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ImageManipulation" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ImageManipulation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DropBox" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ImageUtility (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ImageUtility" />
+      </list>
+    </recent_temporary>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PlasmaDeviceApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -118,25 +630,46 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25906345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32626426" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28366113" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626426" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25906345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -151,8 +684,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DropBox.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="697">
+          <caret line="199" column="51" lean-forward="false" selection-start-line="199" selection-start-column="51" selection-end-line="199" selection-end-column="51" />
           <folding>
             <element signature="e#94#103#0" expanded="true" />
             <element signature="e#356#585#0" expanded="false" />
@@ -160,9 +693,50 @@
             <element signature="e#1403#2083#0" expanded="false" />
             <element signature="e#2162#2424#0" expanded="false" />
             <element signature="e#2535#3558#0" expanded="false" />
-            <element signature="e#3668#4745#0" expanded="false" />
-            <element signature="e#4848#5671#0" expanded="false" />
-            <element signature="e#5771#6298#0" expanded="false" />
+            <element signature="e#3668#4744#0" expanded="false" />
+            <element signature="e#4847#5670#0" expanded="false" />
+            <element signature="e#5770#6297#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageManipulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2567">
+          <caret line="151" column="62" lean-forward="false" selection-start-line="151" selection-start-column="62" selection-end-line="151" selection-end-column="62" />
+          <folding>
+            <element signature="e#445#1040#0" expanded="false" />
+            <element signature="e#1158#1995#0" expanded="false" />
+            <element signature="e#2091#2732#0" expanded="false" />
+            <element signature="e#2832#3656#0" expanded="false" />
+            <element signature="e#3794#4643#0" expanded="false" />
+            <element signature="e#4730#4934#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="57" column="44" lean-forward="false" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+          <folding>
+            <element signature="e#94#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="e#306#751#0" expanded="false" />
+            <element signature="e#850#1507#0" expanded="false" />
+            <element signature="e#1619#2955#0" expanded="false" />
+            <element signature="e#3065#4339#0" expanded="false" />
+            <element signature="e#4472#5877#0" expanded="false" />
+            <element signature="e#5984#6772#0" expanded="false" />
+            <element signature="e#8813#9044#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -178,9 +752,19 @@
             <element signature="e#1403#2083#0" expanded="false" />
             <element signature="e#2162#2424#0" expanded="false" />
             <element signature="e#2535#3558#0" expanded="false" />
-            <element signature="e#3668#4745#0" expanded="false" />
-            <element signature="e#4848#5671#0" expanded="false" />
-            <element signature="e#5771#6298#0" expanded="false" />
+            <element signature="e#3668#4744#0" expanded="false" />
+            <element signature="e#4847#5670#0" expanded="false" />
+            <element signature="e#5770#6297#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="57" column="44" lean-forward="false" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+          <folding>
+            <element signature="e#94#113#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -196,16 +780,54 @@
             <element signature="e#1403#2083#0" expanded="false" />
             <element signature="e#2162#2424#0" expanded="false" />
             <element signature="e#2535#3558#0" expanded="false" />
-            <element signature="e#3668#4745#0" expanded="false" />
-            <element signature="e#4848#5671#0" expanded="false" />
-            <element signature="e#5771#6298#0" expanded="false" />
+            <element signature="e#3668#4744#0" expanded="false" />
+            <element signature="e#4847#5670#0" expanded="false" />
+            <element signature="e#5770#6297#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="57" column="44" lean-forward="false" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+          <folding>
+            <element signature="e#94#113#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DropBox.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#685#1294#0" expanded="false" />
+            <element signature="e#1403#2083#0" expanded="false" />
+            <element signature="e#2162#2424#0" expanded="false" />
+            <element signature="e#2535#3558#0" expanded="false" />
+            <element signature="e#3668#4744#0" expanded="false" />
+            <element signature="e#4847#5670#0" expanded="false" />
+            <element signature="e#5770#6297#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="57" column="44" lean-forward="false" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+          <folding>
+            <element signature="e#94#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DropBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3145">
           <caret line="185" column="43" lean-forward="false" selection-start-line="185" selection-start-column="43" selection-end-line="185" selection-end-column="43" />
           <folding>
             <element signature="e#94#103#0" expanded="true" />
@@ -214,9 +836,242 @@
             <element signature="e#1403#2083#0" expanded="false" />
             <element signature="e#2162#2424#0" expanded="false" />
             <element signature="e#2535#3558#0" expanded="false" />
-            <element signature="e#3668#4745#0" expanded="false" />
-            <element signature="e#4848#5671#0" expanded="false" />
-            <element signature="e#5771#6298#0" expanded="false" />
+            <element signature="e#3668#4744#0" expanded="false" />
+            <element signature="e#4847#5670#0" expanded="false" />
+            <element signature="e#5770#6297#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageUtility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/New/ImageProcessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2635">
+          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="177" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DropBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3145">
+          <caret line="185" column="43" lean-forward="false" selection-start-line="185" selection-start-column="43" selection-end-line="185" selection-end-column="43" />
+          <folding>
+            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#685#1294#0" expanded="false" />
+            <element signature="e#1403#2083#0" expanded="false" />
+            <element signature="e#2162#2424#0" expanded="false" />
+            <element signature="e#2535#3558#0" expanded="false" />
+            <element signature="e#3668#4744#0" expanded="false" />
+            <element signature="e#4847#5670#0" expanded="false" />
+            <element signature="e#5770#6297#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageUtility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/New/ImageProcessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2635">
+          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="177" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DropBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#685#1294#0" expanded="false" />
+            <element signature="e#1403#2083#0" expanded="false" />
+            <element signature="e#2162#2424#0" expanded="false" />
+            <element signature="e#2535#3558#0" expanded="false" />
+            <element signature="e#3668#4744#0" expanded="false" />
+            <element signature="e#4847#5670#0" expanded="false" />
+            <element signature="e#5770#6297#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DropBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#685#1294#0" expanded="false" />
+            <element signature="e#1403#2083#0" expanded="false" />
+            <element signature="e#2162#2424#0" expanded="false" />
+            <element signature="e#2535#3558#0" expanded="false" />
+            <element signature="e#3668#4744#0" expanded="false" />
+            <element signature="e#4847#5670#0" expanded="false" />
+            <element signature="e#5770#6297#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DropBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#685#1294#0" expanded="false" />
+            <element signature="e#1403#2083#0" expanded="false" />
+            <element signature="e#2162#2424#0" expanded="false" />
+            <element signature="e#2535#3558#0" expanded="false" />
+            <element signature="e#3668#4744#0" expanded="false" />
+            <element signature="e#4847#5670#0" expanded="false" />
+            <element signature="e#5770#6297#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plz_work.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/New/ImageUtility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="45" column="57" lean-forward="false" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/New/ImageProcessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageUtility.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageUtility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="119" column="57" lean-forward="false" selection-start-line="119" selection-start-column="57" selection-end-line="119" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/New/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb14.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DropBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="199" column="51" lean-forward="false" selection-start-line="199" selection-start-column="51" selection-end-line="199" selection-end-column="51" />
+          <folding>
+            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#356#585#0" expanded="false" />
+            <element signature="e#685#1294#0" expanded="false" />
+            <element signature="e#1403#2083#0" expanded="false" />
+            <element signature="e#2162#2424#0" expanded="false" />
+            <element signature="e#2535#3558#0" expanded="false" />
+            <element signature="e#3668#4744#0" expanded="false" />
+            <element signature="e#4847#5670#0" expanded="false" />
+            <element signature="e#5770#6297#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageManipulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="152" column="0" lean-forward="true" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding>
+            <element signature="e#445#1040#0" expanded="false" />
+            <element signature="e#1158#1995#0" expanded="false" />
+            <element signature="e#2091#2732#0" expanded="false" />
+            <element signature="e#2832#3656#0" expanded="false" />
+            <element signature="e#3794#4643#0" expanded="false" />
+            <element signature="e#4730#4934#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="214" column="15" lean-forward="true" selection-start-line="214" selection-start-column="15" selection-end-line="214" selection-end-column="15" />
+          <folding>
+            <element signature="e#306#751#0" expanded="false" />
+            <element signature="e#850#1507#0" expanded="false" />
+            <element signature="e#1619#2955#0" expanded="false" />
+            <element signature="e#3065#4339#0" expanded="false" />
+            <element signature="e#4472#5877#0" expanded="false" />
+            <element signature="e#5984#6772#0" expanded="false" />
+            <element signature="e#8813#9044#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Results/2017-03-14 14-26-31/output.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="e#94#113#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,9 +1,10 @@
 # Engineer: Thomas Reaney
 # College: National University of Ireland Galway
 # Date: 12/03/2017
-from ImageUtility import *
+from ImageManipulation import *
+import cv2
 
-logging.basicConfig(filename="ImageProcessing.log", level=logging.INFO)
+logging.basicConfig(filename="PlasmaDevice.log", level=logging.INFO)
 
 
 # Method: Used for manual edge detection
@@ -14,6 +15,7 @@ def manual_edge_detection(file_name, lower, upper):
     :param upper: Upper limit
     :return: Image with edges detected
     """
+    logging.info("Manual Edge Detection: Starting......")
     img = cv2.imread(file_name, 0)
 
     output = cv2.Canny(img, lower, upper)
@@ -21,6 +23,7 @@ def manual_edge_detection(file_name, lower, upper):
     cv2.imshow("Automatic Edge Detection", output)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
+    logging.info("Manual Edge Detection: Finishing......")
 
 
 # Method: Used for automatic edge detection
@@ -30,6 +33,7 @@ def auto_edge_detection(file_name, sigma=0.33):
     :param sigma: Edge detection value
     :return: Image with edges detected
     """
+    logging.info("Automatic Edge Detection: Starting......")
     img = cv2.imread(file_name, 0)
     # Calculates the median of the pixel intensities
     med = np.median(img)
@@ -41,6 +45,7 @@ def auto_edge_detection(file_name, sigma=0.33):
     cv2.imshow("Automatic Edge Detection", output)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
+    logging.info("Automatic Edge Detection: Finishing......")
 
 
 # Method: Used to create an image using pixel averaging
@@ -57,17 +62,20 @@ def pixel_averaging(file_dir, output_file_name):
     files = [file_name for file_name in os.listdir(file_dir) if
              file_name.endswith(".jpg") and file_name.startswith("rgb")]
 
-    for file_name in files:
-        file_name = os.path.join(file_dir, file_name)
-        image = cv2.imread(file_name)
-        height, width, channels = image.shape
-        if channels > 1:
-            image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-        for i in range(height):
-            for j in range(width):
-                total_pixels[i, j] += image[i, j]
-        num_images += 1
-
+    if files:
+        for file_name in files:
+            file_name = os.path.join(file_dir, file_name)
+            image = cv2.imread(file_name)
+            height, width, channels = image.shape
+            if channels > 1:
+                image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+            for i in range(height):
+                for j in range(width):
+                    total_pixels[i, j] += image[i, j]
+            num_images += 1
+        print("Pixel averaging completed")
+    else:
+        raise FileNotFoundError
     logging.info("Pixel Averaging: Calculate the average for each pixel on each image")
 
     # Average the pixels
@@ -96,7 +104,7 @@ def image_blending(file_dir, output_file_name):
 
     logging.info("Image Blending: Blend all images in the file directory specified")
 
-    if len(files) > 0:
+    if files:
         # Initialise blended image to first image
         blended_img = cv2.imread(files[0])
         for i in range(len(files)):
@@ -111,6 +119,7 @@ def image_blending(file_dir, output_file_name):
             blended_img = cv2.addWeighted(src1=img1, alpha=alpha, src2=img2, beta=beta, gamma=0)
         # Save image
         cv2.imwrite(output_file_name, blended_img)
+        print("Image blending completed")
     else:
         raise FileNotFoundError
     logging.info("Image Blending: Finishing.....")
@@ -134,48 +143,28 @@ def feature_extraction(file_dir, output_file_name, threshold=200):
 
     logging.info("Feature Extraction: Set the pixels with an intensity above the threshold to black")
 
-    for file_name in files:
-        file_name = os.path.join(file_dir, file_name)
-        img = cv2.imread(file_name)
+    if files:
+        for file_name in files:
+            file_name = os.path.join(file_dir, file_name)
+            img = cv2.imread(file_name)
 
-        height, width, channels = img.shape
-        # If not greyscale, convert to greyscale
-        if channels > 1:
-            img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+            height, width, channels = img.shape
+            # If not greyscale, convert to greyscale
+            if channels > 1:
+                img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-        # Apply threshold
-        for i in range(height):
-            for j in range(width):
-                if img[i, j] > threshold:
-                    # Set to black
-                    output_img[i, j] = 0
-    # Save image
-    cv2.imwrite(output_file_name, output_img)
+            # Apply threshold
+            for i in range(height):
+                for j in range(width):
+                    if img[i, j] > threshold:
+                        # Set to black
+                        output_img[i, j] = 0
+        # Save image
+        cv2.imwrite(output_file_name, output_img)
+        print("Feature extraction completed")
+    else:
+        raise FileNotFoundError
     logging.info("Feature Extraction: Starting.....")
-
-
-# Method: Used to scale pixel values to between an upper and lower limit
-def scale_pixels(avg_pixels, scale_min=0, scale_max=255):
-    """
-    :param avg_pixels: Averaged pixel values
-    :param scale_min: Minimum scaled value (Default=0)
-    :param scale_max: Maximum scaled value (Default=255)
-    :return: avg_pixels: Scaled averaged pixel values
-    """
-    logging.info("Scale Pixels: Starting.....")
-    pixel_min, pixel_max = np.min(avg_pixels), np.max(avg_pixels)
-
-    logging.info("Scale Pixels: Convert pixel values to a range between 0 and 255")
-
-    for i in range(np.size(avg_pixels, axis=0)):
-        for j in range(np.size(avg_pixels, axis=1)):
-            pixel_val = avg_pixels[i, j]
-            scaled_pixel_val = (pixel_val - pixel_min) * (scale_max - scale_min) / (pixel_max - pixel_min)
-            scaled_pixel_val = np.floor(scaled_pixel_val)
-            avg_pixels[i, j] = scaled_pixel_val
-
-    logging.info("Scale Pixels: Starting.....")
-    return avg_pixels
 
 
 # Method: Used to add the
@@ -197,6 +186,7 @@ def add_limits_to_image(img, colour, inner_radius=130, outer_radius=200):
     # Add outer circle to the image
     cv2.circle(img=img, center=center, radius=outer_radius, color=colour, thickness=2)
 
+    print("Limits added to image")
     logging.info("Add Limits to Image: Finishing.....")
     return img
 
@@ -213,28 +203,46 @@ def circle_detection(file_name, dp, min_dist, param1, param2, min_radius, max_ra
     :param max_radius: Maximum radius
     :return: Detected center point, Image with detected circles
     """
+    logging.info("Circle Detection: Starting......")
     img = cv2.imread(file_name, 0)
     #  Smooth edges
     img = cv2.medianBlur(img, 5)
-
+    # Detect circles
     circles = cv2.HoughCircles(img, cv2.HOUGH_GRADIENT,
                                dp=dp, minDist=min_dist,
                                param1=param1, param2=param2,
                                minRadius=min_radius, maxRadius=max_radius)
-
     center = ()
-
+    # Convert to greyscale
     img = cv2.cvtColor(img, cv2.COLOR_GRAY2RGB)
+
     if circles is not None:
         circles = np.uint16(np.around(circles))
-        print(len(circles[0, :]))
-        if len(circles[0, :]):
+        if len(circles[0, :]) > 1:
+            # Randomly pick a center point if there is more than one
             circle = circles[0, :][0]
-            center = (circle[0], circle[1])
+            center = (int(circle[0]), int(circle[1]))
             # Draw detected circles
             cv2.circle(img=img, center=(circle[0], circle[1]), radius=130, color=(255, 0, 0), thickness=2)
             cv2.circle(img=img, center=(circle[0], circle[1]), radius=200, color=(255, 0, 0), thickness=2)
             # Draw the centre point of the circle
             cv2.circle(img=img, center=(circle[0], circle[1]), radius=2, color=(255, 0, 0), thickness=2)
-
+            print("Circle Detection: Detected circles added to image")
+    else:
+        print("Circle Detection: No circles found in image")
+    logging.info("Circle Detection: Finishing......")
     return center, img
+
+
+# Method: Used to draw a line between two points
+def draw_line_between_two_points(img, point_1, point_2):
+    """
+    :param img: Input image
+    :param point_1: Point 1
+    :param point_2: Point 2
+    :return: Output image
+    """
+    # Draw line
+    cv2.line(img=img, pt1=point_1, pt2=point_2, color=(0, 0, 0), thickness=2)
+
+    return img

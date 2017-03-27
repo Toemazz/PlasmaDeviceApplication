@@ -134,7 +134,7 @@ def download_files(local_dir, dbox_dir):
     # Get files to be downloaded
     down_files = get_files_from_dropbox_dir(dbox_dir)
 
-    if len(down_files):
+    if not down_files:
         print("No files in DropBox directory")
     else:
         # Add files to local directory

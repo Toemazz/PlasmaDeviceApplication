@@ -1,6 +1,9 @@
-from ImageProcessing import *
-from ImageUtility import *
+# Engineer: Thomas Reaney
+# College: National University of Ireland Galway
+# Date: 16/03/2017
 from Tests import *
+from OpenCV import *
+from ImageManipulation import *
 
 
 # Method: Used to run the image processing on the recorded images
@@ -19,11 +22,8 @@ def run_application(file_dir, file_name):
                                           param1=15, param2=135,
                                           min_radius=100, max_radius=150)
 
-    # If the centre point of a circle is detected
     if plasma_center:
-        # Get centre point of the image
         ideal_center = get_image_centre_point(img)
-        # Draw line between both centre points
         draw_line_between_two_points(img, plasma_center, ideal_center)
         # Check if the run is a pass or fail
         result = check_pass_fail_(plasma_center, ideal_center)
@@ -54,5 +54,5 @@ def run_application(file_dir, file_name):
     cv2.imwrite(file_name, img)
 
 
-run_application("C://FYP_Application/Raw/2017-03-14 14-45-44/",
-                "C://FYP_Application/Results/2017-03-14 14-45-44/output.jpg")
+run_application("C://PlasmaDeviceApplication/Raw/2017-03-14 14-26-31/",
+                "C://PlasmaDeviceApplication/Results/2017-03-14 14-26-31/Output.jpg")

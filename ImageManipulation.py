@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from PIL import Image
 
-logging.basicConfig(filename="ImageUtility.log", level=logging.INFO)
+logging.basicConfig(filename="PlasmaDevice.log", level=logging.INFO)
 
 
 # Method: Used to create a .gif file from a  number of .jpg images
@@ -22,38 +22,47 @@ def jpg_to_gif(file_dir, output_file_name):
     """
     logging.info("JPG -> GIF: Starting.....")
 
-    files = [file_name for file_name in os.listdir(file_dir) if file_name.endswith(".jpg")]
+    files = [os.path.join(file_dir, file_name) for file_name in os.listdir(file_dir) if file_name.endswith(".jpg")]
 
-    # Create GIF
-    with imageio.get_writer(output_file_name, mode="I") as writer:
-        for img in files:
-            writer.append_data(imageio.imread(img))
+    if files:
+        # Create GIF
+        with imageio.get_writer(output_file_name, mode="I") as writer:
+            for img in files:
+                writer.append_data(imageio.imread(img))
+        print("GIF created")
+    else:
+        print("Unable to create GIF")
+
     logging.info("JPG -> GIF: Finishing.....")
 
 
-# Method: Used to create a .avi file from a  number of .jpg images
-def jpg_to_avi(file_dir, output_file_name):
+# Method: Used to create a .mp4 file from a  number of .jpg images
+def jpg_to_mp4(file_dir, output_file_name):
     """
     :param file_dir: File directory
     :param output_file_name:  Output filename
-    :return: .avi file
+    :return: .mp4 file
     """
-    logging.info("JPG -> AVI: Starting.....")
+    logging.info("JPG -> MP4: Starting.....")
 
-    files = [file_name for file_name in os.listdir(file_dir) if file_name.endswith(".jpg")]
+    files = [os.path.join(file_dir, file_name) for file_name in os.listdir(file_dir) if file_name.endswith(".jpg")]
 
-    width, height = cv2.imread(files[0], 0).shape
-    images = [cv2.imread(files[i], 0) for i in range(len(files))]
+    if files:
+        images = [cv2.imread(files[i], 0) for i in range(len(files))]
+        width, height = images[0].shape
 
-    fourcc = cv2.VideoWriter_fourcc(*"XVID")
-    video = cv2.VideoWriter(filename=output_file_name, fourcc=fourcc, fps=1, frameSize=(width, height), isColor=True)
+        fourcc = cv2.VideoWriter_fourcc(*"MPEG")
+        video = cv2.VideoWriter(filename=output_file_name, fourcc=fourcc, fps=5.0, frameSize=(width, height), isColor=True)
 
-    for i in range(len(images)):
-        video.write(images[i])
+        for i in range(len(images)):
+            video.write(images[i])
 
-    cv2.destroyAllWindows()
-    video.release()
-    logging.info("JPG -> AVI: Finishing.....")
+        cv2.destroyAllWindows()
+        video.release()
+        print("MP4 file created")
+    else:
+        print("Unable to create MP4")
+    logging.info("JPG -> MP4: Finishing.....")
 
 
 # Method: Used to create a 3D representation of an image
@@ -103,7 +112,32 @@ def resize_image(input_file_name, output_file_name, ratio=8):
     logging.info("Re-Size Image: Image Size After: (" + str(new_width) + ", " + str(new_height) + ")")
     # Save image
     img.save(output_file_name)
+    print(input_file_name, "re-sized")
     logging.info("Re-Size Image: Finishing.....")
+
+
+# Method: Used to scale pixel values to between an upper and lower limit
+def scale_pixels(avg_pixels, scale_min=0, scale_max=255):
+    """
+    :param avg_pixels: Averaged pixel values
+    :param scale_min: Minimum scaled value (Default=0)
+    :param scale_max: Maximum scaled value (Default=255)
+    :return: avg_pixels: Scaled averaged pixel values
+    """
+    logging.info("Scale Pixels: Starting.....")
+    pixel_min, pixel_max = np.min(avg_pixels), np.max(avg_pixels)
+
+    logging.info("Scale Pixels: Convert pixel values to a range between 0 and 255")
+
+    for i in range(np.size(avg_pixels, axis=0)):
+        for j in range(np.size(avg_pixels, axis=1)):
+            pixel_val = avg_pixels[i, j]
+            scaled_pixel_val = (pixel_val - pixel_min) * (scale_max - scale_min) / (pixel_max - pixel_min)
+            scaled_pixel_val = np.floor(scaled_pixel_val)
+            avg_pixels[i, j] = scaled_pixel_val
+
+    logging.info("Scale Pixels: Starting.....")
+    return avg_pixels
 
 
 # Method: Used to the centre point of an image
@@ -116,10 +150,3 @@ def get_image_centre_point(img):
 
     # Get center point
     return int(np.floor(width / 2)), int(np.floor(height / 2))
-
-
-# Method: Used to draw a line between two points
-def draw_line_between_two_points(img, point_1, point_2):
-    cv2.line(img=img, pt1=point_1, pt2=point_2, color=(0, 0, 0), thickness=2)
-
-    return img
