@@ -5,6 +5,7 @@ from Tests import *
 from OpenCV import *
 from DropBox import *
 from ImageManipulation import *
+import time
 
 
 def main(input_dir, output_dir, download_dbox_dir, upload_dbox_dir):
@@ -12,11 +13,14 @@ def main(input_dir, output_dir, download_dbox_dir, upload_dbox_dir):
     if not os.path.exists(input_dir):
         os.mkdir(input_dir)
     # Download files
-    # download_files(base_local_dir, download_dbox_dir)
+    # start = time.time()
+    # download_files(input_dir, download_dbox_dir)
+    # end = time.time()
+    # print("Download Time: " + str(int(end-start)) + "s")
 
     for file_dir in os.listdir(input_dir):
         run_dir = os.path.join(input_dir, file_dir)
-        print(run_dir, "\n")
+        print("\n" + run_dir)
 
         out_dir_path = os.path.join(output_dir, file_dir)
         if not os.path.exists(out_dir_path):
@@ -71,9 +75,15 @@ def main(input_dir, output_dir, download_dbox_dir, upload_dbox_dir):
         # Save final output image
         out_file_path = os.path.join(out_dir_path, "Output.jpg")
         cv2.imwrite(out_file_path, img)
+        # Create gif from images
+        jp_out_file_path = os.path.join(out_dir_path, "Output.gif")
+        jpg_to_gif(run_dir, jp_out_file_path)
 
     # Upload results to DropBox
+    # start = time.time()
     # upload_files(output_dir, upload_dbox_dir)
+    # end = time.time()
+    # print("Upload Time: " + str(int(end - start)) + "s")
 
 
 main("C://PlasmaDeviceApplication/Raw/",

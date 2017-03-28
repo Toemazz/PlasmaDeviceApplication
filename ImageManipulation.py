@@ -22,7 +22,8 @@ def jpg_to_gif(file_dir, output_file_name):
     """
     logging.info("JPG -> GIF: Starting.....")
 
-    files = [os.path.join(file_dir, file_name) for file_name in os.listdir(file_dir) if file_name.endswith(".jpg")]
+    files = [os.path.join(file_dir, file_name) for file_name in os.listdir(file_dir) if
+             file_name.endswith(".jpg") and file_name.startswith("rgb")]
 
     if files:
         # Create GIF

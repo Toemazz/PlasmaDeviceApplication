@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc0c03d1-1bb7-47aa-83ba-2f5839ef0ece" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/1.5mmOffset.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/1mmFurther.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/2.5mmOffset.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/2017-03-14 14-21-56/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/2017-03-14 14-26-31/Output.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/2017-03-14 14-26-31/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/2017-03-14 14-29-22/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/2017-03-14 14-33-33/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/2017-03-14 14-38-09/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/2017-03-14 14-45-44/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/2017-03-14 14-52-19/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/2017-03-14 14-59-39/output.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/4mmCloser.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/5mmOffset.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/Good1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/Good2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Results/Good3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Test/SnakeGameV3.asm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/UploadConsoleOutput.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConsoleOutputDownload.txt" afterPath="$PROJECT_DIR$/ConsoleOutputDownload.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConsoleOutputUpload.txt" afterPath="$PROJECT_DIR$/ConsoleOutputUpload.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageManipulation.py" afterPath="$PROJECT_DIR$/ImageManipulation.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenCV.py" afterPath="$PROJECT_DIR$/OpenCV.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +17,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$ImageManipulation.coverage" NAME="ImageManipulation Coverage Results" MODIFIED="1490617437199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$Main.coverage" NAME="Main Coverage Results" MODIFIED="1490647511821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$Main.coverage" NAME="Main Coverage Results" MODIFIED="1490698058143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$ImageUtility.coverage" NAME="ImageUtility Coverage Results" MODIFIED="1490548584871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/New" />
     <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$DropBox.coverage" NAME="DropBox Coverage Results" MODIFIED="1490624713080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PlasmaDeviceApplication$ImageUtility__1_.coverage" NAME="ImageUtility (1) Coverage Results" MODIFIED="1490551580378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -49,10 +31,9 @@
       <file leaf-file-name="DropBox.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DropBox.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="210" column="0" lean-forward="true" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+            <state relative-caret-position="334">
+              <caret line="210" column="0" lean-forward="false" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
               <folding>
-                <element signature="e#94#103#0" expanded="true" />
                 <element signature="e#356#585#0" expanded="false" />
                 <element signature="e#685#1349#0" expanded="false" />
                 <element signature="e#1458#2222#0" expanded="false" />
@@ -65,11 +46,55 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ImageManipulation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImageManipulation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="34" column="37" lean-forward="false" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+              <folding>
+                <element signature="e#1203#2040#0" expanded="false" />
+                <element signature="e#2136#2777#0" expanded="false" />
+                <element signature="e#2877#3690#0" expanded="false" />
+                <element signature="e#3828#4677#0" expanded="false" />
+                <element signature="e#4764#4968#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpenCV.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenCV.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="136" column="28" lean-forward="false" selection-start-line="136" selection-start-column="28" selection-end-line="136" selection-end-column="28" />
+              <folding>
+                <element signature="e#306#751#0" expanded="false" />
+                <element signature="e#850#1507#0" expanded="false" />
+                <element signature="e#1619#2955#0" expanded="false" />
+                <element signature="e#3065#4339#0" expanded="false" />
+                <element signature="e#5984#6772#0" expanded="false" />
+                <element signature="e#6899#8700#0" expanded="false" />
+                <element signature="e#8813#9044#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            <state relative-caret-position="291">
+              <caret line="82" column="25" lean-forward="true" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
               <folding>
                 <element signature="e#94#113#0" expanded="true" />
               </folding>
@@ -103,10 +128,10 @@
         <option value="$PROJECT_DIR$/New/ImageProcessing.py" />
         <option value="$PROJECT_DIR$/New/OpenCV.py" />
         <option value="$PROJECT_DIR$/New/Tests.py" />
-        <option value="$PROJECT_DIR$/ImageManipulation.py" />
         <option value="$PROJECT_DIR$/Tests.py" />
         <option value="$PROJECT_DIR$/OpenCV.py" />
         <option value="$PROJECT_DIR$/DropBox.py" />
+        <option value="$PROJECT_DIR$/ImageManipulation.py" />
         <option value="$PROJECT_DIR$/Main.py" />
       </list>
     </option>
@@ -138,6 +163,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -152,8 +179,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -519,16 +544,15 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18683812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36052203" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2193646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626426" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -537,6 +561,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626426" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -571,22 +596,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="57" column="44" lean-forward="false" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
-          <folding>
-            <element signature="e#94#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DropBox.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#94#103#0" expanded="false" />
             <element signature="e#356#585#0" expanded="false" />
             <element signature="e#685#1349#0" expanded="false" />
             <element signature="e#1458#2222#0" expanded="false" />
@@ -613,7 +628,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#94#103#0" expanded="false" />
             <element signature="e#356#585#0" expanded="false" />
             <element signature="e#685#1349#0" expanded="false" />
             <element signature="e#1458#2222#0" expanded="false" />
@@ -640,7 +655,7 @@
         <state relative-caret-position="3145">
           <caret line="185" column="43" lean-forward="false" selection-start-line="185" selection-start-column="43" selection-end-line="185" selection-end-column="43" />
           <folding>
-            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#94#103#0" expanded="false" />
             <element signature="e#356#585#0" expanded="false" />
             <element signature="e#685#1349#0" expanded="false" />
             <element signature="e#1458#2222#0" expanded="false" />
@@ -652,13 +667,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImageUtility.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageUtility.py" />
     <entry file="file://$PROJECT_DIR$/OpenCV.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -666,19 +675,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/New/ImageProcessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2635">
-          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="177" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/New/ImageProcessing.py" />
     <entry file="file://$PROJECT_DIR$/DropBox.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3145">
           <caret line="185" column="43" lean-forward="false" selection-start-line="185" selection-start-column="43" selection-end-line="185" selection-end-column="43" />
           <folding>
-            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#94#103#0" expanded="false" />
             <element signature="e#356#585#0" expanded="false" />
             <element signature="e#685#1349#0" expanded="false" />
             <element signature="e#1458#2222#0" expanded="false" />
@@ -690,13 +693,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ImageUtility.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageUtility.py" />
     <entry file="file://$PROJECT_DIR$/OpenCV.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -704,19 +701,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/New/ImageProcessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2635">
-          <caret line="156" column="0" lean-forward="false" selection-start-line="156" selection-start-column="0" selection-end-line="177" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/New/ImageProcessing.py" />
     <entry file="file://$PROJECT_DIR$/DropBox.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#94#103#0" expanded="false" />
             <element signature="e#356#585#0" expanded="false" />
             <element signature="e#685#1349#0" expanded="false" />
             <element signature="e#1458#2222#0" expanded="false" />
@@ -733,7 +724,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#94#103#0" expanded="false" />
             <element signature="e#356#585#0" expanded="false" />
             <element signature="e#685#1349#0" expanded="false" />
             <element signature="e#1458#2222#0" expanded="false" />
@@ -750,7 +741,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#94#103#0" expanded="true" />
+            <element signature="e#94#103#0" expanded="false" />
             <element signature="e#356#585#0" expanded="false" />
             <element signature="e#685#1349#0" expanded="false" />
             <element signature="e#1458#2222#0" expanded="false" />
@@ -762,143 +753,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plz_work.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/New/ImageUtility.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="45" column="57" lean-forward="false" selection-start-line="45" selection-start-column="57" selection-end-line="45" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/New/ImageProcessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageUtility.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageUtility.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="119" column="57" lean-forward="false" selection-start-line="119" selection-start-column="57" selection-end-line="119" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/New/Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb14.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Results/2017-03-14 14-26-31/output.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/plz_work.gif" />
+    <entry file="file://$PROJECT_DIR$/New/ImageUtility.py" />
+    <entry file="file://$PROJECT_DIR$/New/ImageProcessing.py" />
+    <entry file="file://$PROJECT_DIR$/ImageUtility.log" />
+    <entry file="file://$PROJECT_DIR$/ImageUtility.py" />
+    <entry file="file://$PROJECT_DIR$/New/Test.py" />
+    <entry file="file://$PROJECT_DIR$/Raw/2017-03-14 14-21-56/rgb14.jpg" />
+    <entry file="file://$PROJECT_DIR$/Results/2017-03-14 14-26-31/output.jpg" />
     <entry file="file://$PROJECT_DIR$/Raw/Run1/Output.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-21-56/output.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-26-31/output.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-29-22/output.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-33-33/output.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-38-09/output.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-45-44/output.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-52-19/output.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-59-39/output.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImageManipulation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="95" column="61" lean-forward="false" selection-start-line="95" selection-start-column="61" selection-end-line="95" selection-end-column="61" />
-          <folding>
-            <element signature="e#445#1040#0" expanded="false" />
-            <element signature="e#1158#1995#0" expanded="false" />
-            <element signature="e#2091#2732#0" expanded="false" />
-            <element signature="e#2832#3645#0" expanded="false" />
-            <element signature="e#3783#4632#0" expanded="false" />
-            <element signature="e#4719#4923#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OpenCV.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="222" column="37" lean-forward="false" selection-start-line="222" selection-start-column="37" selection-end-line="222" selection-end-column="37" />
-          <folding>
-            <element signature="e#306#751#0" expanded="false" />
-            <element signature="e#850#1507#0" expanded="false" />
-            <element signature="e#1619#2955#0" expanded="false" />
-            <element signature="e#3065#4339#0" expanded="false" />
-            <element signature="e#4472#5877#0" expanded="false" />
-            <element signature="e#5984#6772#0" expanded="false" />
-            <element signature="e#8813#9044#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-21-56/output.jpg" />
+    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-26-31/output.jpg" />
+    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-29-22/output.jpg" />
+    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-33-33/output.jpg" />
+    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-38-09/output.jpg" />
+    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-45-44/output.jpg" />
+    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-52-19/output.jpg" />
+    <entry file="file://$PROJECT_DIR$/OriginalResults/2017-03-14 14-59-39/output.jpg" />
     <entry file="file://$PROJECT_DIR$/Results/Run1/1_Output_FeatureExtraction.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -964,12 +839,16 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Results/Run1/Output.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DropBox.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="210" column="0" lean-forward="true" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+        <state relative-caret-position="334">
+          <caret line="210" column="0" lean-forward="false" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
           <folding>
-            <element signature="e#94#103#0" expanded="true" />
             <element signature="e#356#585#0" expanded="false" />
             <element signature="e#685#1349#0" expanded="false" />
             <element signature="e#1458#2222#0" expanded="false" />
@@ -981,10 +860,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
+    <entry file="file://$PROJECT_DIR$/OpenCV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="136" column="28" lean-forward="false" selection-start-line="136" selection-start-column="28" selection-end-line="136" selection-end-column="28" />
+          <folding>
+            <element signature="e#306#751#0" expanded="false" />
+            <element signature="e#850#1507#0" expanded="false" />
+            <element signature="e#1619#2955#0" expanded="false" />
+            <element signature="e#3065#4339#0" expanded="false" />
+            <element signature="e#5984#6772#0" expanded="false" />
+            <element signature="e#6899#8700#0" expanded="false" />
+            <element signature="e#8813#9044#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageManipulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="34" column="37" lean-forward="false" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <folding>
+            <element signature="e#1203#2040#0" expanded="false" />
+            <element signature="e#2136#2777#0" expanded="false" />
+            <element signature="e#2877#3690#0" expanded="false" />
+            <element signature="e#3828#4677#0" expanded="false" />
+            <element signature="e#4764#4968#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="82" column="25" lean-forward="true" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
           <folding>
             <element signature="e#94#113#0" expanded="true" />
           </folding>
