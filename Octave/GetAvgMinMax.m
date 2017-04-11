@@ -27,5 +27,7 @@ end
 % Calculate both min and max averages
 min_avg = min_tot / length(files);
 max_avg = max_tot / length(files);
+disp("\nAverage Min Value:");
 disp(min_avg);
+disp("\nAverage Max Value:");
 disp(max_avg);

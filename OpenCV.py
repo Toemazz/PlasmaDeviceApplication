@@ -8,22 +8,17 @@ logging.basicConfig(filename="PlasmaDevice.log", level=logging.INFO)
 
 
 # Method: Used for manual edge detection
-def manual_edge_detection(file_name, lower, upper):
+def manual_edge_detection(in_file_name, out_file_name, lower, upper):
     """
-    :param file_name: File name of image
+    :param in_file_name: Input file name
+    :param out_file_name: Output file name
     :param lower: Lower limit
     :param upper: Upper limit
     :return: Image with edges detected
     """
-    logging.info("Manual Edge Detection: Starting......")
-    img = cv2.imread(file_name, 0)
-
-    output = cv2.Canny(img, lower, upper)
-
-    cv2.imshow("Automatic Edge Detection", output)
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
-    logging.info("Manual Edge Detection: Finishing......")
+    img = cv2.imread(in_file_name, 0)
+    img = cv2.Canny(img, lower, upper)
+    cv2.imwrite(out_file_name, img)
 
 
 # Method: Used for automatic edge detection
@@ -106,7 +101,8 @@ def image_blending(file_dir, output_file_name):
 
     if files:
         # Initialise blended image to first image
-        blended_img = cv2.imread(files[0])
+        blended_img = 0
+
         for i in range(len(files)):
             files[i] = os.path.join(file_dir, files[i])
             if i == 0:
@@ -116,7 +112,7 @@ def image_blending(file_dir, output_file_name):
                 img1 = cv2.imread(files[i])
                 img2 = cv2.imread(files[i-1])
             # Blend images
-            blended_img = cv2.addWeighted(src1=img1, alpha=alpha, src2=img2, beta=beta, gamma=0)
+            blended_img = cv2.addWeighted(src1=img1, alpha=alpha, src2=img2, beta=beta, gamma=1)
         # Save image
         cv2.imwrite(output_file_name, blended_img)
         print("Image blending completed")
@@ -125,8 +121,8 @@ def image_blending(file_dir, output_file_name):
     logging.info("Image Blending: Finishing.....")
 
 
-# Method: Used to create an image using feature extraction
-def feature_extraction(file_dir, output_file_name, threshold=200):
+# Method: Used to create an image using thresholding
+def thresholding(file_dir, output_file_name, threshold=200):
     """
     :param file_dir: File directory
     :param output_file_name: Name of output file name
@@ -222,11 +218,6 @@ def circle_detection(file_name, dp, min_dist, param1, param2, min_radius, max_ra
             # Randomly pick a center point if there is more than one
             circle = circles[0, :][0]
             center = (int(circle[0]), int(circle[1]))
-            # Draw detected circles
-            cv2.circle(img=img, center=(circle[0], circle[1]), radius=130, color=(255, 0, 0), thickness=2)
-            cv2.circle(img=img, center=(circle[0], circle[1]), radius=200, color=(255, 0, 0), thickness=2)
-            # Draw the centre point of the circle
-            cv2.circle(img=img, center=(circle[0], circle[1]), radius=2, color=(255, 0, 0), thickness=2)
             print("Circle Detection: Detected circles added to image")
     else:
         print("Circle Detection: No circles found in image")

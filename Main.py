@@ -8,7 +8,19 @@ from ImageManipulation import *
 import time
 
 
+# Method: Used to run the thermal image processing application
 def main(input_dir, output_dir, download_dbox_dir, upload_dbox_dir):
+    """
+    :param input_dir: Raw files local directory
+    :param output_dir: Results files local directory
+    :param download_dbox_dir: DropBox directory for downloading
+    :param upload_dbox_dir: DropBox directory for uploading
+    :return: 
+    """
+    # Default min and max radii
+    center_radius = 2
+    min_radius = 130
+    max_radius = 200
     # If the base local directory doesn't exist, make the new directory
     if not os.path.exists(input_dir):
         os.mkdir(input_dir)
@@ -28,7 +40,7 @@ def main(input_dir, output_dir, download_dbox_dir, upload_dbox_dir):
 
         # Extract features from the RGB images
         fe_out_file_path = os.path.join(out_dir_path, "1_Output_FeatureExtraction.jpg")
-        feature_extraction(run_dir, fe_out_file_path)
+        thresholding(run_dir, fe_out_file_path)
 
         # Re-size the original image
         rs_out_file_path = os.path.join(out_dir_path, "2_Output_ResizedImage.jpg")
@@ -56,8 +68,11 @@ def main(input_dir, output_dir, download_dbox_dir, upload_dbox_dir):
                 text = "FAIL"
                 colour = (0, 0, 255)
 
-            # Add ideal limits to image
-            img = add_limits_to_image(img, colour)
+            # Draw detected circles
+            cv2.circle(img=img, center=plasma_center, radius=min_radius, color=colour, thickness=2)
+            cv2.circle(img=img, center=plasma_center, radius=max_radius, color=colour, thickness=2)
+            # Draw the centre point of the circle
+            cv2.circle(img=img, center=plasma_center, radius=center_radius, color=colour, thickness=2)
         # If the centre point of a circle is not detected
         else:
             # Set text to FAIL and colour to red
@@ -66,9 +81,14 @@ def main(input_dir, output_dir, download_dbox_dir, upload_dbox_dir):
             cv2.putText(img=img, text="Unable to detect circle", org=(20, 460),
                         fontFace=cv2.FONT_HERSHEY_DUPLEX, fontScale=1, color=colour, thickness=2)
 
+        # Add ideal limits to image
+        blue = (255, 0, 0)
+        img = add_limits_to_image(img, blue)
+
         # Add PASS/FAIL text to the image
         cv2.putText(img=img, text=text, org=(20, 50),
                     fontFace=cv2.FONT_HERSHEY_DUPLEX, fontScale=1.5, color=colour, thickness=2)
+
         # Save final step of image processing
         fi_out_file_path = os.path.join(out_dir_path, "4_FinalImage.jpg")
         cv2.imwrite(fi_out_file_path, img)

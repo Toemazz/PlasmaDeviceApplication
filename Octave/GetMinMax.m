@@ -4,8 +4,6 @@ clear; clc; close all;
 
 % Get all files ending with .bin in current directory
 files = dir("*.bin");
-outfile = "run1.txt"
-out = fopen(outfile, "w");
 
 for i = 1:length(files)
   % Get filename
@@ -16,7 +14,7 @@ for i = 1:length(files)
   data = fread(file, "ushort");
   % Print Values
   disp("\n");
-  disp(filename);
+  % disp(filename);
   disp("Min: ");
   disp(swapbytes(uint16(data(1))));
   disp("Max: ");
@@ -24,10 +22,8 @@ for i = 1:length(files)
   
   data = data(3:size(data));
   data = reshape(data, [80, 60]);
-  % disp(data);
+  disp(data);
   
   % Close file
   fclose(file);
 end
-
-fclose(out);
