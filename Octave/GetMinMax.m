@@ -22,7 +22,7 @@ for i = 1:length(files)
   
   data = data(3:size(data));
   data = reshape(data, [80, 60]);
-  disp(data);
+  % disp(data);
   
   % Close file
   fclose(file);
