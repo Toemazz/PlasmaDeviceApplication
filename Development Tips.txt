@@ -1,0 +1,17 @@
+1. Python 3.5
+
+2. Dropbox directories to be changed to local network directories (i.e. //tua1-fileserver//shares//.... )
+
+3. Main.py takes 4 arguments:
+	- Local input directory
+	- Local output directory 
+	- Local network input directory 
+	- Local network output directory 
+
+4. Changes in the colourmap limits frameMin/frameMax on the Raspberry Pi may require changes to be made to the threshold limit (Default: 200, OpenCV.py)
+
+5. Pass/Fail limit can be altered in Limits.txt and is measured in pixels
+
+
+Any Questions/Queries:
+Email: thomas@reaney.net
